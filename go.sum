@@ -1,0 +1,4 @@
+github.com/pschlump/filelib v1.0.6 h1:KJdAoE+5ovlpHrfs4CTGJDXmHCEyGK+sx3CKmBajgDw=
+github.com/pschlump/filelib v1.0.6/go.mod h1:CxEa7t6Y1lukm2ar5iMbm1imu8fN4V52tgrWtXUqd1g=
+github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e h1:MRM5ITcdelLK2j1vwZ3Je0FKVCfqOLp5zO6trqMLYs0=
+github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e/go.mod h1:XV66xRDqSt+GTGFMVlhk3ULuV0y9ZmzeVGR4mloJI3M=

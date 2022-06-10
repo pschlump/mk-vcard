@@ -17,7 +17,7 @@ VERSION:3.0
 N:Philip J Schlump
 ORG:Truck Coin Swap, LLC
 TITLE:Chief Comercial Officer
-TEL:+123-234-5678
+TEL:1232345678
 URL:https://www.truckcoinswap.com
 EMAIL:philip@example.com
 ADR:USA

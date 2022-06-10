@@ -1,6 +1,7 @@
 # VCard format QR Generator
 
 ```
+$ git clone https://github.com/pschlump/mk-vcard.git
 $ go build
 $ edit yourname.txt
 $ ./mk-vcard yourname.txt
@@ -22,3 +23,4 @@ EMAIL:philip@example.com
 ADR:USA
 END:VCARD
 ```
+

@@ -1,4 +1,4 @@
-# VCard format QR Generator
+# `VCard` format QR Generator
 
 ```
 $ git clone https://github.com/pschlump/mk-vcard.git
@@ -7,9 +7,9 @@ $ edit yourname.txt
 $ ./mk-vcard yourname.txt
 ```
 
-should crate a .png file `yourname.txt.png` with the vcard data in it.
+Should crate a `.png` file `yourname.txt.png` with the `VCard` data in it.
 
-A vcard file has:
+A `VCard` file has, for example:
 
 ```
 BEGIN:VCARD

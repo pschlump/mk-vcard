@@ -10,12 +10,10 @@ import (
 	qrcode "github.com/skip2/go-qrcode"
 )
 
-// var In = flag.String("in", "vcard.txt", "input file")
-
 func main() {
 
 	flag.Usage = func() {
-		fmt.Fprintf(os.Stderr, "mk-vcard: Usage: %s [flags]\n", os.Args[0])
+		fmt.Fprintf(os.Stderr, "mk-vcard: Usage: %s files...\n", os.Args[0])
 		flag.PrintDefaults()
 	}
 
